@@ -21,7 +21,7 @@ html,body{
 
 .control:focus {
 	outline: none;
-	border-bottom: 2px solid #107abd;
+	border-bottom: 2px solid #107ABD;
 }
 
 .control:focus + label {
@@ -34,13 +34,13 @@ html,body{
 
 
 .control:not(:placeholder-shown) {
-	border-bottom: 2px solid #107abd;
+	border-bottom: 2px solid #107ABD;
 }
 
 
 .label {
 	position: absolute;
-	color: #cbc7c3;
+	color: #CBC7C3;
 	z-index: 1;
 }
 
@@ -55,16 +55,16 @@ html,body{
     display: flex;
     justify-content: center;
     align-items: center;
-	background-color: #fbfbfb;
+	background-color: #FBFBFB;
 }
 
 .card   {
 	border-style: solid;
-	border-color: #ffffff;
+	border-color: #FFFFFF;
 	border-width: 4px;
 	border-radius: 50px;
 	box-shadow: 0px 0px 10px 5px rgba(0,0,0,0.03);
-    background-color: #ffffff;
+    background-color: #FFFFFF;
     min-width: 270px;
     min-height: 20%;
 	width: 25%;
@@ -104,7 +104,7 @@ html,body{
 .card button:active {
 	transform: scale(0.97);
 	box-shadow: none;
-	background-color: #107abd;
+	background-color: #107ABD;
 	color: #EDEDED;
 }
 

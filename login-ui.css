@@ -8,16 +8,16 @@ html,body{
     display: flex;
     justify-content: center;
     align-items: center;
-	background-color: #fbfbfb;
+	background-color: #FBFBFB;
 }
 
 .card   {
 	border-style: solid;
-	border-color: #ffffff;
+	border-color: #FFFFFF;
 	border-width: 4px;
 	border-radius: 50px;
 	box-shadow: 0px 0px 10px 5px rgba(0,0,0,0.03);
-    background-color: #ffffff;
+    background-color: #FFFFFF;
     min-width: 30%;
     min-height: 20%;
     display: flex;
@@ -43,7 +43,7 @@ html,body{
 	padding: 4%;
 	border-radius: 7% / 50%;
 	background-color: 	#1390DE;
-	color: #fff;
+	color: #FFFFFF;
 	font-size: 1.25rem;
 	border: none;
 	box-shadow: 0px 2px 5px 2px rgba(0,0,0,0.1);
@@ -51,7 +51,7 @@ html,body{
 
 .card input::placeholder {
 	vertical-align: top;
-	color: #cbc7c3;
+	color: #CBC7C3;
 	font-size: 15px;
 	top: 0;
 	margin: -5px;
